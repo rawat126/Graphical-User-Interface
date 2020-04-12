@@ -1,1 +1,6 @@
-
+Hospital mangement based Web application for Doctors, Patients, and Management teams for ease and better organization
+of Medical Data with Proper backend connectivity.
+searches based on :
+1. Doctors Identity
+2. Patients Identity
+3. Other Staff member identity
